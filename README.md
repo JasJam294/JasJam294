@@ -10,7 +10,8 @@
 
 ### 🚀 About Me
 
-Sophomore student who loves fun little projects that can be utilized out of boredom or for organizational and learning purposes.
+CS student who loves fun little projects that can be utilized out of boredom or for organizational and learning purposes.
+Graduation May 2028
 
 🔭 &nbsp;I'm currently working on **an AI Scouting Report**  
 🌱 &nbsp;I'm currently learning **Python and FastAPIs**  
